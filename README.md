@@ -22,19 +22,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahgameel&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahgameel&theme=radical" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bboll/Github-Language-Pie-Chart/master/example.png" width="400"/>
 </p>
 
 ---
