@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="mailto:abdallahgamil072@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-abdallahgamil072%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallahgameel&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abdallahgameel&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
